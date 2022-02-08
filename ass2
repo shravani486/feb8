@@ -1,0 +1,9 @@
+print('enter the length in centimetre:')
+c=float(input())
+a=c*100000
+print('length in centimetre=',a)
+
+output:
+enter the length in centimetre:
+5
+length in centimetre= 500000.0
