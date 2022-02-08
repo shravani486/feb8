@@ -1,0 +1,19 @@
+a=int(input('enter a value'))
+b=int(input('enter b value'))
+print(bool(a<b))
+print(bool(a>b))
+print(bool(a>=b))
+print(bool(a<=b))
+print(bool(a==b))
+print(bool(a!=b))
+
+OutPut : Printing if the given comparision is true or false
+
+enter a value 10
+enter b value 5
+False
+True
+True
+False
+False
+True
